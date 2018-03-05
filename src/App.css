@@ -1,0 +1,46 @@
+@font-face {
+  font-family: fuente-1;
+  src: url(Bubble3D.ttf);
+}
+@font-face {
+  font-family: fuente-2;
+  src: url(Campus.ttf);
+}
+@font-face {
+  font-family: fuente-3;
+  src: url(Messages.ttf);
+}
+.box {
+  width: 10em;
+  height: 5em;
+  border: 2px solid blue;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 5em;
+	font-weight: normal;
+	color: #fff;
+	margin-top: 50px;
+	font-weight: bold;
+}
+.buble {
+  font-family: fuente-1;
+  margin-top: 30px;
+  font-size: 1.5em;
+  height: 40px;
+  font-size: large;
+}
+
+.campus {
+  font-family: fuente-2;
+  margin-top: 30px;
+  font-size: 1.5em;
+  height: 40px;
+  font-size: large;
+}
+
+.messages {
+  font-family: fuente-3;
+  margin-top: 30px;
+  font-size: 1.5em;
+  height: 40px;
+  font-size: large;
+}
